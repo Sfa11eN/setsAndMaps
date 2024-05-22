@@ -27,6 +27,5 @@ public class Solution {
         //System.out.println();
         reader.close();
         inStream.close();
-        // напишите тут ваш код
     }
 }
